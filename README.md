@@ -1,2 +1,2 @@
 # Project-1
-To do list app
+Calculator Project in JS
